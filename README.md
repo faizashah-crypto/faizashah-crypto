@@ -1,4 +1,4 @@
-![logo](https://github.com/faizashah-crypto/faizashah-crypto/blob/main/README.md)
+![logo](https://github.com/faizashah-crypto/faizashah-crypto/blob/main/Github.banner.jpg)
 <h1 align="center">Hi 👋, I'm Faiza Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
